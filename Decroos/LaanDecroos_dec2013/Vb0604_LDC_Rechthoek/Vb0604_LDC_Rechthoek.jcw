@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Vb0604_LDC_Rechthoek</label>
+	</settings>
+	<users>
+		<user>
+			<path>Vb0604_LDC_Rechthoek.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Vb0604_LDC_Rechthoek.jcp</path>
+		</project>
+	</projects>
+</workspace>

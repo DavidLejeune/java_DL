@@ -1,0 +1,4 @@
+C:\Java\OPGAVEN\LaanDecroos_dec2013\Vb0702\src\Les.java
+C:\Java\OPGAVEN\LaanDecroos_dec2013\Vb0702\src\Lesrooster.java
+C:\Java\OPGAVEN\LaanDecroos_dec2013\Vb0702\src\Tijdstip.java
+C:\Java\OPGAVEN\LaanDecroos_dec2013\Vb0702\src\Vb0702.java

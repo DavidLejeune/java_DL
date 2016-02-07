@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>GUI_ThreadDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>GUI_ThreadDemo2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GUI_ThreadDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

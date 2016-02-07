@@ -1,0 +1,374 @@
+a*atto (prefix for 10-18)
+A*ampere (unit of electrical current)
+ac*alternating current
+ACC*Affiliated Club Coordinator
+ACSSB*amplitude-compandored single sideband
+A/D*analog-to-digital
+ADC*analog-to-digital converter
+AF*audio frequency
+AFC*automatic frequency control
+AFSK*audio frequency-shift keying
+AGC*automatic gain control
+A/h*ampere hour
+ALC*automatic level control
+AM*amplitude modulation
+AMRAD*Amateur Radio Research and Development Corp
+AMSAT*Radio Amateur Satellite Corp
+AMTOR*Amateur Teleprinting Over Radio
+ANT*antenna
+ARA*Amateur Radio Association
+ARC*Amateur Radio Club
+ARES*Amateur Radio Emergency Service
+ARQ*Automatic repeat request
+ARRL*American Radio Relay League
+ARS*Amateur Radio Society (station)
+ASCII*American National Standard Code for Information Interchange
+ATV*amateur television
+AVC*automatic volume control
+AWG*American wire gauge
+az-el*azimuth-elevation
+B*bel; blower; susceptance; flux density, (inductors)
+balun*balanced to unbalanced (transformer)
+BC*broadcast
+BCD*binary coded decimal
+BCI*broadcast interference
+Bd*baud (bids in single-channel binary data transmission)
+BER*bit error rate
+BFO*beat-frequency oscillator
+bit*binary digit
+bit/s*bits per second 
+BM*Bulletin Manager 
+BPF*band-pass filter 
+BPL*Brass Pounders League
+BT*battery
+BW*bandwidth
+c*centi (prefix for 10-2)
+C*coulomb (quantity of electric charge); capacitor
+CAC*Contest Advisory Committee
+CATVI*cable television interference
+CB*Citizens Band (radio)
+CBBS*computer bulletin-board service
+CBMS*computer-based message system
+CCITT*International Telegraph and Telephone Consultative Committee
+CCTV*closed-circuit television
+CCW*coherent CW 
+ccw*counterclockwise
+CD*civil defense
+cm*centimeter
+CMOS*complementary-symmetry metal-oxide semiconductor 
+coax*coaxial cable
+COR*carrier-operated relay
+CP*code proficiency (award)
+CPU*central processing unit
+CRT*cathode ray tube
+CT*center tap
+CTCSS*continuous tone-coded squelch system
+cw*clockwise
+CW*continuous wave
+d*deci (prefix for 10-1)
+D*diode
+da*deca (prefix for 10)
+D/A*digital-to-analog
+DAC*digital-to-analog converter
+dB*decibel (0.1 bel)
+dBi*decibels above (or below) isotropic antenna
+dBm*decibels above (or below) 1 milliwatt
+DBM*doubly balanced mixer
+dBV*decibels above/below 1 V (in video, relative to 1 V P-P)
+dBW*decibels above/below 1 W 
+dc*direct current
+D-C*direct conversion
+DDS*direct digital synthesis
+DEC*District Emergency Coordinator
+deg*degree
+DET*detector
+DF*direction finding; direction finder
+DIP*dual in-line package
+DMM*digital multimeter
+DPDT*double-pole double-throw (switch)
+DPSK*differential phase-shift keying
+DPST*double-pole single-throw (switch)
+DS*direct sequence (spread spectrum); display
+DSB*double sideband
+DSP*digital signal processing
+DTMF*dual-tone multifrequency
+DVM*digital voltmeter
+DX*long distance; duplex
+DXAC*DX Advisory Committee
+DXCC*DX Century Club
+e*base of natural logarithms (2.71828)
+E*voltage
+EA*ARRL Educational Advisor
+EC*Emergency Coordinator
+ECL*emitter-coupled logic
+EHF*extremely high frequency (30-300 GHz)
+EIA*Electronic Industries Assn
+EIRP*effective isotropic radiated power
+ELF*extremely low frequency
+ELT*emergency locator transmitter
+EMC*electromagnetic compatibility
+EME*earth-moon-earth (moonbounce)
+EMF*electromotive force
+EMI*electromagnetic interference
+EMP*electromagnetic pulse
+EOC*emergency operations center
+EPROM*erasable programmable read only memory
+f*femto (prefix for 10-5); frequency
+F*farad (capacitance unit); fuse
+fax*facsimile
+FCC*Federal Communications Commission
+FD*Field Day
+FEMA*Federal Emergency Management Agency
+FET*field-effect transistor
+FFT*fast Fourier transform
+FL*filter
+FM*frequency modulation
+FMTV*frequency-modulated television
+FSK*frequency-shift keying
+FSTV*fast-scan (real-time) television
+ft*foot (unit of length)
+g*gram (unit of mass)
+G*giga (prefix for 109); conductance
+GaAs*gallium arsenide
+GDO*grid- or gate-dip oscillator
+GHz*gigahertz (109 Hz)
+GND*ground
+h*hecto (prefix for 102)
+H*henry (unit of inductance)
+HF*high frequency (3-30 MHz)
+HFO*high-frequency oscillator; heterodyne frequency oscillator
+HPF*highest probable frequency; high-pass filter
+Hz*hertz (unit of frequency, 1 cycle/s)
+I*current, indicating lamp
+IARU*International Amateur Radio Union
+IC*integrated circuit
+ID*identification; inside diameter
+IEEE*Institute of Electrical and Electronics Engineers
+IF*intermediate frequency
+IMD*intermodulation distortion
+in.*inch (unit of length)
+in./s*inch per second (unit of velocity)
+I/O*input/output
+IRC*international reply coupon
+ISB*independent sideband
+ITF*Interference Task Force
+ITU*International Telecommunication Union
+j*operator for complex notation, as for reactive component of an impedance (+j inductive; -j capacitive)
+J*joule (kg m2/s2) (energy or work unit); jack
+JFET*junction field-effect transistor
+k*kilo (prefix for 103); Boltzmann's constant (1.38x10-23 J/K)
+K*kelvin (used without degree symbol) absolute temperature scale; relay
+kBd*1000 bauds
+kbit*1024 bits
+kbit/s*1024 bits per second
+kbyte*1024 bytes
+kg*kilogram
+kHz*kilohertz
+km*kilometer
+kV*kilovolt
+kW*kilowatt
+kW*kilohm
+l*liter (liquid volume)
+L*lambert; inductor
+lb*pound (force unit)
+LC*inductance-capacitance
+LCD*liquid crystal display
+LED*light-emitting diode
+LF*low frequency (30-300 kHz)
+LHC*left-hand circular (polarization)
+LO*local oscillator; Leadership Official
+LP*log periodic
+LS*loudspeaker
+lsb*least significant bit
+LSB*lower sideband
+LSI*large-scale integration
+LUF*lowest usable frequency
+m*meter (length); milli (prefix for 10-3) 
+M*mega (prefix for 106); meter (instrument)
+mA*milliampere
+mAh*milliampere hour 
+MCP*multimode communications processor
+MDS*Multipoint Distribution Service; minimum discernible (or detectable) signal
+MF*medium frequency (300-3000 kHz)
+mH*millihenry
+MHz*megahertz
+mi*mile, statute (unit of length)
+mi/h*mile per hour
+mi/s*mile per second
+mic*microphone
+min*minute (time)
+MIX*mixer
+mm*millimeter
+MOD*modulator 
+modem*modulator/demodulator
+MOS*metal-oxide semiconductor
+MOSFET*metal-oxide semiconductor field-effect transistor
+MS*meteor scatter
+ms*millisecond
+m/s*meters per second
+msb*most-significant bit
+MSI*medium-scale integration
+MSK*minimum-shift keying 
+MSO*message storage operation
+MUF*maximum usable frequency
+mV*millivolt
+mW*milliwatt
+MW*megohm
+n*nano (prefix for 10-9); number of turns (inductors)
+NBFM*narrow-band frequency modulation
+NC*no connection; normally closed
+NCS*net-control station; National Communications System
+nF*nanofarad
+NF*noise figure
+nH*nanohenry
+NiCd*nickel cadmium
+NM*Net Manager
+NMOS*N-channel metal-oxide semiconductor
+NO*normally open
+NPN*negative-positive-negative (transistor)
+NPRM*Notice of Proposed Rule Making (FCC)
+ns*nanosecond
+NTIA*National Telecommunications and Information Administration
+NTS*National Traffic System
+OBS*Official Bulletin Station
+OD*outside diameter
+OES*Official Emergency Station
+OO*Official Observer 
+op amp*operational amplifier 
+ORS*Official Relay Station 
+OSC*oscillator 
+OSCAR*Orbiting Satellite Carrying Amateur Radio 
+OTC*Old Timer's Club 
+oz*ounce (force unit, 1/16 pound)
+p*pico (prefix for 10-12)
+P*power; plug
+PA*power amplifier
+PACTOR*digital mode combining aspects of packet and AMTOR
+PAM*pulse-amplitude modulation
+PBS*packet bulletin-board system
+PC*printed circuit
+PD*power dissipation
+PEP*peak envelope power
+PEV*peak envelope voltage
+pF*picofarad
+pH*picohenry
+PIC*Public Information Coordinator
+PIN*positive-intrinsic-negative (semiconductor)
+PIO*Public Information Officer
+PIV*peak inverse voltage
+PLL*phase-locked loop
+PM*phase modulation
+PMOS*P-channel (metal-oxide semiconductor)
+PNP*positive negative positive (transistor)
+pot*potentiometer
+P-P*peak to peak
+ppd*postpaid
+PROM*programmable read-only memory
+PSAC*Public Service Advisory Committee
+PSHR*Public Service Honor Roll
+PTO*permeability-tuned oscillator
+PTT*push to talk
+Q*figure of merit (tuned circuit); transistor
+QRP*low power (less than 5-W output)
+R*resistor 
+RACES*Radio Amateur Civil Emergency Service 
+RAM*random-access memory 
+RC*resistance-capacitance 
+R/C*radio control 
+RCC*Rag Chewer's Club 
+RDF*radio direction finding
+RF*radio frequency 
+RFC*radio-frequency choke
+RFI*radio-frequency interference
+RHC*right-hand circular (polarization)
+RIT*receiver incremental tuning
+RLC*resistance-inductance-capacitance
+RM*rule making (number assigned to petition)
+r/min*revolutions per minute
+RMS*root mean square
+ROM*read-only memory
+r/s*revolutions per second
+RS*Radio Sputnik, Russian ham satellite
+RST*readability-strength-tone (CW signal report)
+RTTY*radioteletype
+RX*receiver, receiving
+s*second (time)
+S*siemens (unit of conductance); switch
+SASE*self-addressed stamped envelope
+SCF*switched capacitor filter
+SCR*silicon controlled rectifier
+SEC*Section Emergency Coordinator
+SET*Simulated Emergency Test
+SGL*State Government Liaison
+SHF*super-high frequency (3-30 GHz)
+SM*Section Manager; silver mica (capacitor)
+S/N*signal-to-noise ratio
+SPDT*single pole double-throw (switch)
+SPST*single-pole single-throw (switch)
+SS*Sweepstakes; spread spectrum 
+SSB*single sideband
+SSC*Special Service Club
+SSI*small-scale integration
+SSTV*slow-scan television
+STM*Section Traffic Manager
+SX*simplex
+sync*synchronous, synchronizing
+SWL*shortwave listener
+SWR*standing-wave ratio
+T*tera (prefix for 1012); transformer
+TA*ARRL Technical Advisor
+TC*Technical Coordinator
+TCC*Transcontinental Corps (NTS)
+TCP/IP*Transmission Control Protocol/ Internet Protocol
+tfc*traffic
+TNC*terminal node controller (packet radio)
+TR*transmit/receive
+TS*Technical Specialist
+TTL*transistor-transistor logic
+TTY*teletypewriter
+TU*terminal unit
+TV*television
+TVI*television interference
+TX*transmitter, transmitting
+U*integrated circuit
+UHF*ultra-high frequency (300 MHz to 3 GHz)
+USB*upper sideband
+UTC*Coordinated Universal Time (also abbreviated Z)
+UV*ultraviolet
+V*volt; vacuum tube 
+VCO*voltage-controlled oscillator
+VCR*video cassette recorder
+VDT*video-display terminal
+VE*Volunteer Examiner
+VEC*Volunteer Examiner Coordinator 
+VFO*variable-frequency oscillator 
+VHF*very-high frequency (30-300 MHz)
+VLF*very-low frequency (3-30 kHz)
+VLSI*very-large-scale integration
+VMOS*V-topology metal-oxide semiconductor
+VOM*volt-ohmmeter
+VOX*voice-operated switch
+VR*voltage regulator
+VSWR*voltage standing-wave ratio
+VTVM*vacuum-tube voltmeter
+VUCC*VHF/UHF Century Club
+VXO*variable-frequency crystal oscillator
+W*watt (kg m2s-3), unit of power
+WAC*Worked All Continents
+WAS*Worked All States
+WBFM*wide-band frequency modulation
+WEFAX*weather facsimile
+Wh*watthour
+WPM*words per minute
+WRC*World Radio Conference
+WVDC*working voltage, direct current
+X*reactance
+XCVR*transceiver
+XFMR*transformer
+XIT*transmitter incremental tuning
+XO*crystal oscillator
+XTAL*crystal
+XVTR*transverter
+Y*crystal; admittance
+YIG*yttrium iron garnet
+Z*impedance; also see UTC

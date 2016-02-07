@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>EchoDemo_GUI</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.7.0_07</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="EchoDemo_GUI"/>
+		<item run="EchoServer"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>Commandvensters</application_ref>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>EchoDemo_GUI</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\ClientPaneel.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\EchoDemo_GUI.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\EchoServer.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

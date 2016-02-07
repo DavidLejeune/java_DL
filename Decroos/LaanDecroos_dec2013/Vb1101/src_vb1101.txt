@@ -1,0 +1,6 @@
+C:\Users\User1\Documents\LaanDecroos3\Vb1101\src\Auto.java
+C:\Users\User1\Documents\LaanDecroos3\Vb1101\src\Autopaneel.java
+C:\Users\User1\Documents\LaanDecroos3\Vb1101\src\Cirkel.java
+C:\Users\User1\Documents\LaanDecroos3\Vb1101\src\Onderdeel.java
+C:\Users\User1\Documents\LaanDecroos3\Vb1101\src\Rechthoek.java
+C:\Users\User1\Documents\LaanDecroos3\Vb1101\src\Vb1101.java

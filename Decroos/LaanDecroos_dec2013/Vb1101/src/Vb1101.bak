@@ -1,0 +1,108 @@
+// Voorbeeld 1101  Auto, opgebouwd uit onderdelen met interface Onderdeel
+import java.awt.*;
+import javax.swing.*;
+import java.util.*;
+
+public class Vb1101 extends JFrame {
+  public static void main( String args[] ) {
+    JFrame frame = new Vb1101();
+    frame.setSize( 400, 280 );
+    frame.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+    frame.setTitle( "Voorbeeld 1101  Onderdelen van een auto" );
+    frame.setContentPane( new Autopaneel() );
+    frame.setVisible( true );
+  }
+}
+
+class Autopaneel extends JPanel {
+  private Auto auto;
+  
+  public Autopaneel() {
+    auto = new Auto( 20, 150, 80, 30 );
+  }
+  
+  public void paintComponent( Graphics g ) {
+    super.paintComponent( g );
+    setBackground( Color.WHITE );     
+    auto.teken( g );
+  }
+}
+
+public interface Onderdeel {
+  public void teken( Graphics g );   // abstracte methode
+}
+
+
+public class Rechthoek implements Onderdeel {
+  private int links, onder, breedte, hoogte;
+  private Color kleur;
+
+  public Rechthoek( Color kleur, int links, int onder,
+                    int breedte, int hoogte ) {
+    this.kleur = kleur;
+    this.links = links;
+    this.onder = onder;
+    this.breedte = breedte;
+    this.hoogte = hoogte;
+  }
+
+  public void teken( Graphics g ) {
+    g.setColor( kleur ) ;
+    g.fillRect( links, onder-hoogte, breedte, hoogte );
+    g.setColor( Color.black );
+    g.drawRect( links, onder-hoogte, breedte, hoogte );
+
+  }
+}
+
+public class Cirkel implements Onderdeel {
+  private int links, onder, diameter;
+  private Color kleur;
+
+  public Cirkel( Color kleur, int links, 
+               int onder, int diameter ) {
+    this.kleur = kleur;
+    this.links = links;
+    this.onder = onder;
+    this.diameter = diameter;
+  }
+
+  public void teken( Graphics g ) {
+    g.setColor( kleur ) ;
+    g.fillOval( links, onder-diameter, diameter, diameter );
+    g.setColor( Color.black );
+    g.drawOval( links, onder-diameter, diameter, diameter );
+  }
+}
+
+public class Auto {
+  private ArrayList<Onderdeel> onderdelenlijst;
+  
+  public Auto( int links, int onder, int breedte, int hoogte ) {
+    onderdelenlijst = new ArrayList<Onderdeel>();
+    int wielgrootte = 20;
+    int carosOnder = onder - wielgrootte/2;
+
+    // De carosserie
+    onderdelenlijst.add(
+      new Rechthoek( Color.BLUE, links, onder-10, breedte, hoogte ) );
+
+    // De cabine
+    onderdelenlijst.add(
+      new Rechthoek( Color.CYAN, links, onder-10-hoogte,
+                     4*breedte/5, 4*hoogte/5 ) );
+
+    // Het achterwiel
+    onderdelenlijst.add(
+      new Cirkel( Color.YELLOW, links+5, onder, wielgrootte ) );
+
+    // Het voorwiel
+    onderdelenlijst.add(
+      new Cirkel( Color.YELLOW, links+breedte-30, onder, wielgrootte ) );
+  }
+
+  public void teken( Graphics g ) {
+    for( Onderdeel part : onderdelenlijst )
+      part.teken( g );                            // polymorfie
+  }
+}

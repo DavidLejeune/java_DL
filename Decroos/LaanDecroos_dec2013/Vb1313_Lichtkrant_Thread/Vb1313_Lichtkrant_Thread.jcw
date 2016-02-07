@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Vb1313_Lichtkrant_Thread</label>
+		<id>6</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Vb1313_Lichtkrant_Thread.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Vb1313_Lichtkrant_Thread.jcp</path>
+		</project>
+	</projects>
+</workspace>

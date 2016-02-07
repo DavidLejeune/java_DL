@@ -1,0 +1,83 @@
+// Voorbeeld 1304  Stuiterende bal
+import javax.swing.*;
+
+public class Vb1304 extends JFrame {
+  public static void main( String args[] ) {
+    JFrame frame = new Vb1304();
+    frame.setSize( 340, 250 );
+    frame.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+    frame.setTitle( "Voorbeeld 1304  Stuiterende bal" );
+    frame.setContentPane( new Steenpaneel() );
+    frame.setVisible( true );
+  }
+}
+
+// Stuiterende bal
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class StuiterendeBalApplet extends JApplet {
+  public void init() {
+    setContentPane( new Balpaneel() );
+  }
+}
+
+public class Balpaneel extends JPanel {
+  private Timer timer;
+  private int teller;
+  private Bal bal;  
+
+  public Balpaneel() {
+    bal = new Bal( -100, 0, 10, Color.RED );
+    
+    timer = new Timer( 10, new TimerHandler() );    
+    timer.start();    
+  }
+  
+  public void paintComponent( Graphics g ) {
+    super.paintComponent( g );
+    setBackground( Color.WHITE );
+    g.translate( 200, 220 );
+    g.drawLine( -110, 10, 120, 10 );
+    bal.stuiter( g ); 
+  }
+
+  class TimerHandler implements ActionListener{
+    public void actionPerformed( ActionEvent e ) {
+      repaint();
+    }
+  }
+}
+
+
+public class Bal {
+  private int x, y, grootte;
+  private Color kleur;
+  private int dx = 4;    // De verplaatsing in de x-richting
+  
+  public Bal( int x, int y, int grootte, Color kleur ) {
+    this.x = x;
+    this.y = y;
+    this.grootte = grootte;
+    this.kleur = kleur;
+  }
+
+  public void stuiter( Graphics g ) {
+    teken( g );
+    verplaats();
+  }
+
+  public void teken( Graphics g ) {
+    g.setColor( kleur );
+    g.fillOval( x, y, grootte, grootte );
+  }
+
+  private void verplaats() {  // verplaatsing volgens parabool
+    if( x + dx > 100 || x + dx < -100 ) {
+      dx = -dx;
+    }
+    x += dx;
+    y = (int) (x-100) * (x+100) / 50;
+  }
+}
